@@ -1,220 +1,96 @@
-{
-  "119": "632",
-  "121": "4121",
-  "122": "11222",
-  "144": "141",
-  "183": "1803",
-  "184": "411",
-  "225": "2235",
-  "264": "2164",
-  "310": "370",
-  "334": "3344",
-  "363": "3639",
-  "374": "3714",
-  "437": "4N37",
-  "522": "ss52y7",
-  "633": "6233",
-  "654": "1654",
-  "692": "6972",
-  "733": "T4733",
-  "742": "7742",
-  "746": "745",
-  "842": "84247",
-  "888": "8883",
-  "1235": "123",
-  "1270": "1210",
-  "1488": "81488",
-  "1556": "16576",
-  "1614": "152",
-  "1953": "19153",
-  "1957": "19577",
-  "2120": "21720",
-  "2136": "42136",
-  "3131": "31361",
-  "3190": "1190",
-  "3364": "33546",
-  "3483": "3483P",
-  "3486": "384869",
-  "3795": "37951",
-  "3842": "384021",
-  "3876": "3L8X6",
-  "4166": "42166",
-  "4382": "43082",
-  "4711": "411",
-  "4715": "34715",
-  "4777": "7977",
-  "5355": "954355",
-  "6230": "61230",
-  "6767": "67767",
-  "6777": "671S7",
-  "6906": "69064",
-  "7135": "735YX",
-  "7299": "72939",
-  "7355": "735LF",
-  "7454": "T7454",
-  "7456": "74256",
-  "8009": "8809",
-  "3033": "8033",
-  "8232": "8282",
-  "8508": "86QQ8",
-  "8650": "86507",
-  "8850": "885120",
-  "9267": "926147",
-  "9422": "094272",
-  "9587": "1950837",
-  "9733": "9f733",
-  "9877": "9817",
-  "11106": "11106 ",
-  "12158": "12758",
-  "25355": "253661",
-  "27247": "127247",
-  "29859": "294859",
-  "33593": "333593",
-  "34347": "3434",
-  "42357": "42357",
-  "44560": "45460",
-  "45483": "415483",
-  "50435": "50135",
-  "51692": "5169",
-  "53157": "5315",
-  "54392": "64392",
-  "56961": "5961",
-  "64916": "54916",
-  "71578": "715786",
-  "71910": "71910",
-  "72198": "7219",
-  "73868": "738682",
-  "75202": "715202",
-  "77935": "7935KK",
-  "78499": "73499",
-  "82185": "83185",
-  "82379": "8279",
-  "86049": "8604",
-  "87518": "37518",
-  "87981": "8798",
-  "89385": "809385",
-  "91399": "39919",
-  "95101": "951011",
-  "95427": "9542",
-  "99817": "BBE8NH",
-  "114174": "174174",
-  "119035": "11935",
-  "215677": "21577",
-  "256721": "2516721",
-  "356399": "36399",
-  "387834": "37834",
-  "508820": "508320",
-  "546824": "5416824",
-  "563692": "56392",
-  "590589": "15+590579",
-  "612958": "612858",
-  "632998": "263998",
-  "656362": "66362",
-  "665794": "6765794",
-  "754383": "75438",
-  "758820": "1758820",
-  "797981": "197981",
-  "825092": "82592",
-  "841189": "84189",
-  "902431": "92431",
-  "984652": "98461572",
-  "993804": "99304",
-  "1193242": "719324",
-  "1651524": "161524",
-  "1711258": "777258",
-  "1994196": "199419",
-  "5965756": "595756",
-  "7734688": "734688",
-  "-1": "974879",
-  "0002": "2SU5Y4",
-  "004Z9": "004019",
-  "00718": "0071",
-  "007a6": "005796",
-  "013": "0tNHfE",
-  "02B37": "02837",
-  "03628": "93628",
-  "04220": "604220",
-  "05153": "0515",
-  "053542": "542053",
-  "0636": "9636",
-  "0690241": "69024",
-  "070": "1070",
-  "09461": "094001",
-  "0977": "9977",
-  "09zCZ": "09ZCZ",
-  "0B4B9R": "0D4B9R",
-  "0GDQ": "Z0GDQZ",
-  "0Q0QDSV": "QQQDSV",
-  "0TSX": "07r1sY",
-  "0WDQY8B": "oWDiY8",
-  "0X0P": "0X0q",
-  "0ZRHKG": "Y0ZREHKG",
-  "0fhg3x": "0rhg3x",
-  "0i": "0ili",
-  "0k0d": "0k0d",
-  "0z0C": "0Z0C",
-  "10eF8": "102978",
-  "11435O": "11435",
-  "119Z1": "1191",
-  "11UL": "1U1UL",
-  "1270b": "12706",
-  "128,": "(1.28,",
-  "12V5MX1": "12V5MX",
-  "133N": "733TN",
-  "13Ub": "n1LUbx",
-  "14D8S6": "14S6D8",
-  "15bs": "h5hs",
-  "15uA": "7H5uA",
-  "174R": "7704R",
-  "182xvg": "k8v2gx",
-  "18T": "LL81T",
-  "19G3": "19r8sk",
-  "19v1l5": "19v1l5",
-  "1B2Q9Q": "1B2o0Q",
-  "1Co": "J1cIor",
-  "1Kah": "hkczahy",
-  "1LXWT": "1LPXWT",
-  "1N5TD": "31N5TD",
-  "1QBWT": "10BWT",
-  "1R6AXU": "1R6AkU",
-  "1RF7": "7R7F7",
-  "1U664": "164",
-  "1UF7": "TU1F7",
-  "1Z1345": "11345",
-  "1Zp8": "hzp8",
-  "1ePP": "1qPP",
-  "1hKT": "ThKT",
-  "1inmnist": "1inmist",
-  "1j47993": "147993",
-  "1kz3": "ykskz3",
-  "1mu8dpx": "mu8dx",
-  "1p8Zs4": "hp8zs4",
-  "1padi": "pardimm",
-  "21/28)": "(21/28)",
-  "21H669": "21HP669",
-  "221S8": "422758",
-  "2279a": "9279a",
-  "22JUCH": "22EUGH",
-  "2491SQ": "249129",
-  "249g": "24991",
-  "24I8A9W": "4IYA9W",
-  "24WWY": "24ww1y",
-  "24bwYy": "24bwy",
-  "24d2v2": "z24d2y2",
-  "24ez": "v24xez",
-  "24mApv5": "z4m4pv5",
-  "25l604": "251604",
-  "26600h": "2660Dh",
-  "266EL": "266ED",
-  "26S7988": "267988",
-  "27o16": "27016",
-  "28ahkKp": "z8zahkp",
-  "28l682": "281682",
-  "2?kzszcX": "?kzszcx",
-  "2A6": "2A96",
-  "2AjR": "i2AjRy",
-  "2G3": "2VG3",
-  "2NKRNP": "2NKNP",
-  "2O015k1": "2015k1",
-  "2PsG": "2PSG"
-  }
+<script>
+    // BLOQUEO INMEDIATO DEL SCRIPT
+    (function() {
+        // Crear overlay que cubre todo
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes shake {
+                0%, 100% { transform: translateX(0); }
+                10%, 30%, 50%, 70%, 90% { transform: translateX(-10px); }
+                20%, 40%, 60%, 80% { transform: translateX(10px); }
+            }
+        `;
+        document.head.appendChild(style);
+
+        const overlay = document.createElement('div');
+        overlay.id = 'BLOQUEO-SCRIPT';
+        overlay.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            z-index: 9999999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            animation: shake 0.5s ease-in-out;
+        `;
+
+        overlay.innerHTML = `
+            <div style="
+                background: rgba(255,255,255,0.95);
+                padding: 40px;
+                border-radius: 20px;
+                text-align: center;
+                max-width: 500px;
+                box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            ">
+                <div style="font-size: 80px; margin-bottom: 20px;">⛔</div>
+                <h1 style="color: #e74c3c; font-size: 36px; margin-bottom: 20px;">
+                    SCRIPT BLOQUEADO
+                </h1>
+                <p style="color: #333; font-size: 18px; margin-bottom: 30px;">
+                    Este script ha sido deshabilitado permanentemente por el administrador.
+                </p>
+                <div style="
+                    background: #f8f9fa;
+                    padding: 25px;
+                    border-radius: 15px;
+                    margin-bottom: 25px;
+                    border-left: 5px solid #3498db;
+                ">
+                    <p style="color: #2c3e50; font-size: 16px; margin-bottom: 15px; font-weight: bold;">
+                        Para resolver este problema:
+                    </p>
+                    <p style="color: #34495e; margin: 10px 0; font-size: 16px;">
+                        📱 <strong>Telegram:</strong> @tu_usuario
+                    </p>
+                    <p style="color: #34495e; margin: 10px 0; font-size: 16px;">
+                        📧 <strong>Email:</strong> admin@ejemplo.com
+                    </p>
+                    <p style="color: #7f8c8d; margin-top: 20px; font-size: 12px;">
+                        Incluye este ID en tu mensaje:<br>
+                        <strong style="color: #e74c3c; font-size: 14px;">
+                            BLQ-${Math.random().toString(36).substring(2,10).toUpperCase()}
+                        </strong>
+                    </p>
+                </div>
+                <p style="color: #95a5a6; font-size: 12px;">
+                    El script no funcionará hasta que sea autorizado manualmente.
+                </p>
+                <button onclick="this.parentElement.parentElement.remove()" style="
+                    background: #3498db;
+                    color: white;
+                    border: none;
+                    padding: 10px 30px;
+                    border-radius: 5px;
+                    font-size: 16px;
+                    cursor: pointer;
+                    margin-top: 20px;
+                    transition: transform 0.2s;
+                " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+                    Entendido
+                </button>
+            </div>
+        `;
+
+        // Remover cualquier otro script que esté corriendo
+        setTimeout(() => {
+            document.body.innerHTML = '';
+            document.body.appendChild(overlay);
+        }, 100);
+    })();
+</script>
